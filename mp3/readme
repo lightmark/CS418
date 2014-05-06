@@ -1,11 +1,6 @@
-# zgao11@illinois.edu
-# 4 credits
 # Description: teapot with environment and bump(normal) mapping
 # This MP require OpenGL 3.3+. GLSL 3.3 and GLFW 3 to run
 # Implementing with both vertex and fragment shaders
-
-Video link:
-https://dl.dropboxusercontent.com/u/41762049/mp3.mov
 
 Compile:
 make
