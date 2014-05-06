@@ -1,0 +1,17 @@
+# zgao11@illinois.edu
+# 4 credits
+# Description: A 3D dancing I
+# This MP require OpenGL 3.3+. GLSL 3.3 and GLFW 3 to run
+
+Compile:
+make
+
+Clean:
+make clean
+
+Control:
+ESC     : quit
+E(Press): show the outline
+
+video link:
+https://dl.dropboxusercontent.com/u/41762049/DancingI.mov
