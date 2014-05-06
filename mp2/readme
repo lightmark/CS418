@@ -1,5 +1,3 @@
-# zgao11@illinois.edu
-# 4 credits
 # Description: emulating plane view
 # This MP require OpenGL 3.3+. GLSL 3.3 and GLFW 3 to run
 # Implementing with both vertex and fragment shaders
