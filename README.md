@@ -1,1 +1,3 @@
-CS418 MPs in Modern OpenGL
+CS418
+===
+Modern OpenGL
